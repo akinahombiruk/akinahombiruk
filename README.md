@@ -63,9 +63,7 @@ A collection of small projects built while learning React, C#, and modern web de
 
 ## 📊 Most Used Languages
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinahombiruk&show_icons=true)
 
 ## 💻 Most Used Languages
 
