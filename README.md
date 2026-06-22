@@ -60,3 +60,13 @@ A collection of small projects built while learning React, C#, and modern web de
 ---
 
 ⭐ *“Consistency builds mastery.”*
+
+## 📊 Most Used Languages
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinahombiruk&show_icons=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinahombiruk&layout=compact)
