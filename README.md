@@ -1,20 +1,19 @@
 # Hi there, I'm Akinahom 👋
 
-
-💻  Software Developer    
-🚀 Passionate about building real-world software solutions
+💻 Software Developer  
+🚀 Passionate about building real-world, scalable software solutions  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software developer focused on building practical and scalable applications.  
-I enjoy learning new technologies and improving my skills in full-stack development and system design.
+I am a software developer focused on building practical and efficient applications.  
+I enjoy learning new technologies and improving my skills in full-stack development, backend systems, and software architecture.
 
 Currently, I am growing my expertise in:
 - Web Development (ASP.NET Core, React)
 - Backend Development (C#, .NET)
-- Software Architecture 
+- Building scalable and maintainable software systems
 
 ---
 
@@ -28,34 +27,36 @@ Currently, I am growing my expertise in:
 
 **Frameworks & Tools**
 - ASP.NET Core MVC
-- React (learning)
+- React 
 - Entity Framework Core
 - Git & GitHub
 
-**Other**
-
-- Basic UI/UX understanding
+**Other Skills**
+- REST API Development
+- Basic UI/UX Understanding
 - Project Management
+- Problem Solving
 
 ---
 
 ## 🚀 Projects
 
-Here are some of my key projects:
+### 📌 Hiwas (React + Node.js)
+A web application focused on health newsletter content and information sharing, built using React for frontend and Node.js for backend services.
 
-### 📌 FriendshipStatus System (ASP.NET Core MVC)
-A dynamic web application that manages user profiles, friendships, and uploaded documents with AJAX-based interactions.
-
+### 📌 Task Manager (ASP.NET Core MVC)
+A task management system that allows users to create, track, and manage daily tasks efficiently using MVC architecture.
 
 ### 📌 Personal Learning Projects
-Small projects built while learning React, C#, and web development fundamentals.
+A collection of small projects built while learning React, C#, and modern web development concepts.
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: akinahombirukwg@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/akinahom-biruk 
+- 📧 Email: akinahombirukwg@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/akinahom-biruk  
 
+---
 
-
+⭐ *“Consistency builds mastery.”*
